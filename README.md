@@ -1,0 +1,4 @@
+CrowdChatPlatform
+=================
+
+CrowdChat Platform Library
