@@ -1,3 +1,1 @@
-exports.helloWorld = function() {
-  console.log("hello from our shared code");
-}
+exports.client = require('client');
