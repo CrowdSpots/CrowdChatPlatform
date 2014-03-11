@@ -1,1 +1,1 @@
-exports.client = require('client');
+exports.client = require('./client.js');
