@@ -1,5 +1,6 @@
 // fifo queue for site tour messages
 var messageQueue = [];
+exports.messageQueue = messageQueue;
 
 exports.queueMessage = function(messageID, messageCallback) {
   if(messageQueue.length == 0) {
