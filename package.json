@@ -1,12 +1,12 @@
 {
-  "name": "crowdchatplatform",
+  "name": "crowdchatshared",
   "private": true,
   "version": "0.1.0",
   "author": "Drew Bratcher",
-  "description": "Crowd Chat Massive Realtime Chat Platform",
+  "description": "Crowd Chat Massive Realtime Chat Shared Library",
+  "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/CrowdSpots/CrowdChatPlatform"
+    "url": "https://github.com/CrowdSpots/CrowdChatShared"
   }
 }
-
