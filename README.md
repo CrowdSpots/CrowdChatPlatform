@@ -1,4 +1,4 @@
-CrowdChatPlatform
+CrowdChatShared
 =================
 
-CrowdChat Platform Library
+CrowdChat Shared Code Library
